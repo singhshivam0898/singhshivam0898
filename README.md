@@ -119,5 +119,5 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 Shoot me an **[Email](mailto:shiv.shivam0898@gmail.com)**
-- 👨🏻‍💻 Connect with me on **[linkedin](https://www.linkedin.com/in/shivamsingh2024)**
+- 👨🏻‍💻 Connect with me on **[linkedin](https://www.linkedin.com/in/shivamsingh2024) [Medium](https://medium.com/@shiv.shivam0898)**
 - ⚡ Fun fact **Building bridges between code and production, one deployment at a time.**
